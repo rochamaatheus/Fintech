@@ -1,30 +1,25 @@
-# React + TypeScript + Vite
+# Fintech
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Capa_Site](https://i.imgur.com/XifPBHy.png)
 
-Currently, two official plugins are available:
+Site de Estatísticas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<div style="display: inline-block"><br>
+  <img align="center" alt="Rocha-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
+  <img align="center" alt="Rocha-TypeScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
+</div>
 
-## Expanding the ESLint configuration
+🚀 Linguagem utilizada: React e TypeScript
+---
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+## Descrição do Projeto
 
-- Configure the top-level `parserOptions` property like this:
+Neste site você pode ver recursos de React com TypeScript para criar um gráfico de estatísticas
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+## Contato
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+Se você tiver alguma dúvida ou precisar de assistência adicional, fique à vontade para entrar em contato através do LinkedIn, Instagram ou por e-mail. As informações de contato estão disponíveis na minha página principal do GitHub.
+
+---
+
+👨‍💻 Criado por [rochamaatheus](https://github.com/rochamaatheus).
