@@ -4,6 +4,8 @@
 
 Site de Estatísticas
 
+[Acesse o site](https://fintech-phi.vercel.app/)
+
 <div style="display: inline-block"><br>
   <img align="center" alt="Rocha-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
   <img align="center" alt="Rocha-TypeScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
